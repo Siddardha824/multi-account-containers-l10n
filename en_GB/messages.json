@@ -7,6 +7,10 @@
     "message": "Open New Tab in…",
     "description": "Menu title"
   },
+  "openInNewWindowTitle": {
+    "message": "Open New Window in…",
+    "description": "Menu title"
+  },
   "reopenThisSiteIn": {
     "message": "Reopen This Site in…",
     "description": "Menu title"
@@ -28,6 +32,9 @@
   },
   "openANewTabIn": {
     "message": "Open a New Tab in…"
+  },
+  "openANewWindowIn": {
+    "message": "Open a New Window in…"
   },
   "openNewTabInThisContainer": {
     "message": "Open New Tab in this Container"
